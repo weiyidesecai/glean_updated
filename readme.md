@@ -7,7 +7,7 @@ sudo apt-get install default-jre-headless
 pip install -r requirements.txt
 ```
 
-## Prepair Data
+## Prepare Data
 
 Unpack `.csv` files into `./data` folder.
 
